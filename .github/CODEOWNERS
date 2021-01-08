@@ -1,3 +1,4 @@
 *.js @leandromendes25
 .github/ @leandromendes25
 *.go @leandromendes25 @leandro 
+*.html @leandromendes25
