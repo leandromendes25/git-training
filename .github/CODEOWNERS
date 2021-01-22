@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 *.js @leandromendes25
 .github/ @leandromendes25
 *.go @leandromendes25 @leandro 
+=======
+*.js @leandromendes25
+.github/ @leandromendes25
+*.go @leandromendes25 @leandro 
+*.html @leandromendes25
+*.java @leadromendes25
+>>>>>>> 1e5ee2274b2d80be30bc0a23663f8161739b6ec5
